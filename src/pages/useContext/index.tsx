@@ -13,7 +13,7 @@ const context = () => {
             }</div>
             <div>{
               Btn2()
-        }</div>
+        }</div> 
         <div> {
               btn3()
             }</div>
